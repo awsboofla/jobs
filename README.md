@@ -1,6 +1,4 @@
-# jobs
-
-AWS's HPC Engineering Organization in EC2 are hiring!
+# AWS's HPC Engineering Organization in EC2 are hiring!
 
 We work with some of the most awesome customers in the world who do extraordinary things to solve some of *the* most complex problems facing us all. Software engineering jobs in our group lead to really cool outcomes.
 
