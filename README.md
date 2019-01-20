@@ -1,8 +1,8 @@
 # AWS's HPC Engineering Organization in EC2 are hiring!
 
-We work with some of the most awesome customers in the world who do extraordinary things to solve some of *the* most complex problems facing us all. Software engineering jobs in our group lead to really cool outcomes.
+We work with some of the most awesome customers in the world who do extraordinary things to solve some of *the* most complex problems facing us all.
 
-Please come and join us! **We're hiring in Seattle and Asti (in Italy) and will offer relocation packages** to the right candidates as well as attractive copmpensation and an incredibly fun work environment.
+Please come and join us! **We're hiring in Seattle and Asti (in Italy) and will offer relocation packages** to the right candidates as well as attractive copmpensation and an incredibly fun work environment. Software engineering jobs in our group lead to really cool outcomes, and you'll get to use all that **distributed systems knowledge**, those **parallel programming skills** and direct it at something that'll really make history (whilst you're having fun).
 
 ## AWS Batch
 
