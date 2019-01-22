@@ -2,7 +2,7 @@
 
 We work with some of the most awesome customers in the world who do extraordinary things to solve some of *the* most complex problems in science, engineering and medicine.
 
-Please come and join us! **We're hiring in Seattle and Asti (in Italy) and will offer relocation packages** to the right candidates as well as attractive copmpensation and an incredibly fun work environment.
+Please come and join us! **We're hiring in Seattle and Asti (in Italy) and will offer relocation packages** to the right candidates as well as attractive compensation and an incredibly fun work environment.
 
 Software engineering jobs in our group lead to really cool outcomes - you'll get to use all that **distributed systems knowledge** and those **parallel programming skills** to support something that'll really make history.
 
