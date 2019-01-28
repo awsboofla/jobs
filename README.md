@@ -6,6 +6,8 @@ Please come and join us! **We're hiring in Seattle and Asti (in Italy) and will 
 
 Software engineering jobs in our group lead to really cool outcomes - you'll get to use all that **distributed systems knowledge** and those **parallel programming skills** to support something that'll really make history.
 
+**There are multiple jobs open for each role listed below**
+
 ## AWS Batch
 
 AWS Batch is a fully managed service for deploying asynchronous workloads into the cloud and is used in a big variety of workloads, from AI/ML through to supporting complex genomics analysis pipelines for some of the most advanced medical research.
