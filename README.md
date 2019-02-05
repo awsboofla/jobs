@@ -24,7 +24,7 @@ Our HPC software development engineers (SDEs) and their managers (SDMs) lead the
 * https://www.amazon.jobs/en/jobs/681433/software-development-engineer-hpc
 * https://www.amazon.jobs/en/jobs/596246/software-development-manager-hpc
 
-## AWS Parner Org
+## AWS Partner Org
 
 The AWS Partner Network (APN) org is also hiring. These folks are an important business support group for our HPC engineers. If you know talented HPC business folks who'd like to take on the challenge of helping us build out our engagement with the world's HPC engineering businesses, please share these roles with them:
 
