@@ -22,7 +22,7 @@ AWS Batch is a fully managed service for deploying asynchronous workloads into t
 Our HPC software development engineers (SDEs) and their managers (SDMs) lead the charge creating new services (like AWS ParallelCluster), and also work with our silicon designers to create and support our 100Gb/s Elastic Fabric Adapter, along with the openfabrics support, which enables low latency MPI comms to support lots of tightly coupled workloads.
 
 * https://www.amazon.jobs/en/jobs/681433/software-development-engineer-hpc
-* https://www.amazon.jobs/en/jobs/596246/software-development-manager-hpc
+* https://www.amazon.jobs/en/jobs/795613/software-development-manager-hpc
 
 ## AWS Partner Org
 
