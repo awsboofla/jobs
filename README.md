@@ -23,6 +23,7 @@ Our HPC software development engineers (SDEs) and their managers (SDMs) lead the
 
 * https://www.amazon.jobs/en/jobs/681433/software-development-engineer-hpc
 * https://www.amazon.jobs/en/jobs/795613/software-development-manager-hpc
+* https://www.amazon.jobs/en/jobs/709157/software-developer-efa
 
 ## AWS Partner Org
 
