@@ -12,7 +12,7 @@ Software engineering jobs in our group lead to really cool outcomes - you'll get
 
 AWS Batch is a fully managed service for deploying asynchronous workloads into the cloud and is used in a big variety of workloads, from AI/ML through to supporting complex genomics analysis pipelines for some of the most advanced medical research.
 
-* https://www.amazon.jobs/en/jobs/743171/software-development-engineer-aws-batch
+* https://www.amazon.jobs/en/jobs/624018/software-development-engineer-aws-batch
 * https://www.amazon.jobs/en/jobs/774034/sr-software-development-engineer-aws-batch
 * https://www.amazon.jobs/en/jobs/658662/system-development-engineer-aws-batch
 * https://www.amazon.jobs/en/jobs/712827/frontend-engineer-aws-batch
