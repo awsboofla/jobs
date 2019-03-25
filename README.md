@@ -32,4 +32,11 @@ The AWS Partner Network (APN) org is also hiring. These folks are an important b
 Global HPC Alliance Mgr (2 roles which are the same)
 * https://bit.ly/2D4rnlY
 * https://bit.ly/2MJRKlL
+
+## HPC Customer Team
+
+The customer facing team in our Worldwide Commercial Business is looking for an Solutions Architecture Manager, and a BD/Sales team member:
+
+* http://www.amazon.jobs/jobs/723829 - Manager HPC SAs
+* http://www.amazon.jobs/jobs/790518 - Business Developer / Sales
  
