@@ -12,31 +12,42 @@ Software engineering jobs in our group lead to really cool outcomes - you'll get
 
 AWS Batch is a fully managed service for deploying asynchronous workloads into the cloud and is used in a big variety of workloads, from AI/ML through to supporting complex genomics analysis pipelines for some of the most advanced medical research.
 
-* https://www.amazon.jobs/en/jobs/624018/software-development-engineer-aws-batch
-* https://www.amazon.jobs/en/jobs/774034/sr-software-development-engineer-aws-batch
-* https://www.amazon.jobs/en/jobs/658662/system-development-engineer-aws-batch
-* https://www.amazon.jobs/en/jobs/712827/frontend-engineer-aws-batch
+* [Software Development Engineer, AWS Batch](https://www.amazon.jobs/en/jobs/624018/software-development-engineer-aws-batch)<!--, 
+ [2](https://www.amazon.jobs/en/jobs/818387/software-development-engineer-aws-batch), 
+ [3](https://www.amazon.jobs/en/jobs/818339/software-development-engineer-aws-batch), 
+ [4](https://www.amazon.jobs/en/jobs/818344/software-development-engineer-aws-batch),
+ [5](https://www.amazon.jobs/en/jobs/818386/software-development-engineer-aws-batch)
+ -->
+* [Sr. Software Development Engineer, AWS Batch](https://www.amazon.jobs/en/jobs/774034/sr-software-development-engineer-aws-batch)<!--,
+ [2](https://www.amazon.jobs/en/jobs/821684/sr-software-development-engineer-aws-batch),
+ [3](https://www.amazon.jobs/en/jobs/821686/sr-software-development-engineer-aws-batch)
+ -->
+* [Frontend Engineer, AWS Batch](https://www.amazon.jobs/en/jobs/817996/frontend-engineer-aws-batch)<!--, 
+ [2](https://www.amazon.jobs/en/jobs/819345/frontend-engineer-aws-batch)-->
+* [System Development Engineer, AWS Batch](https://www.amazon.jobs/en/jobs/658662/system-development-engineer-aws-batch)
 
 ## AWS HPC
 
 Our HPC software development engineers (SDEs) and their managers (SDMs) lead the charge creating new services (like AWS ParallelCluster), and also work with our silicon designers to create and support our 100Gb/s Elastic Fabric Adapter, along with the openfabrics support, which enables low latency MPI comms to support lots of tightly coupled workloads.
 
-* https://www.amazon.jobs/en/jobs/681433/software-development-engineer-hpc
-* https://www.amazon.jobs/en/jobs/795613/software-development-manager-hpc
-* https://www.amazon.jobs/en/jobs/709157/software-developer-efa
+* [Software Development Engineer, HPC](https://www.amazon.jobs/en/jobs/681433/software-development-engineer-hpc)<!--,
+ [2](https://www.amazon.jobs/en/jobs/780685/software-development-engineer-hpc),
+ [3](https://www.amazon.jobs/en/jobs/709157/software-development-engineer-hpc),
+ [4](https://www.amazon.jobs/en/jobs/714720/software-development-engineer-hpc),
+ [5](https://www.amazon.jobs/en/jobs/774035/software-development-engineer-hpc)-->
+* [Software Development Manager, HPC](https://www.amazon.jobs/en/jobs/795613/software-development-manager-hpc)
+* [Solution Architect, HPC](https://www.amazon.jobs/en/jobs/816841/hpc-sa)
 
 ## AWS Partner Org
 
 The AWS Partner Network (APN) org is also hiring. These folks are an important business support group for our HPC engineers. If you know talented HPC business folks who'd like to take on the challenge of helping us build out our engagement with the world's HPC engineering businesses, please share these roles with them:
 
-Global HPC Alliance Mgr (2 roles which are the same)
-* https://bit.ly/2D4rnlY
-* https://bit.ly/2MJRKlL
+* [Global HPC Alliance Manager](https://www.amazon.jobs/en/jobs/789041/global-hpc-alliance-manager)<!--,
+ [2](https://www.amazon.jobs/en/jobs/727752/global-hpc-alliance-manager) -->
 
 ## HPC Customer Team
 
 The customer facing team in our Worldwide Commercial Business is looking for an Solutions Architecture Manager, and a BD/Sales team member:
 
-* http://www.amazon.jobs/jobs/723829 - Manager HPC SAs
-* http://www.amazon.jobs/jobs/790518 - Business Developer / Sales
- 
+* [Head of Solution Architecture, HPC](https://www.amazon.jobs/en/jobs/723829/head-of-solution-architecture-aws-high-performance-computing)
+* [Principle Business Development Manager, Batch Computing](https://www.amazon.jobs/en/jobs/730218/principle-business-development-manager-batch-computing)
