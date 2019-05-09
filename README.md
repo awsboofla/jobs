@@ -1,5 +1,9 @@
 # AWS's HPC Engineering Organization in EC2 is hiring!
 
+> **May 09, 2019 Update:** This page is no longer updated and some links might be stale. Please visit the
+> [AWS HPC & Batch on amazon.jobs](https://www.amazon.jobs/en/landing_pages/aws-high-performance-computing-and-batch)
+> page for an up-to-date and current list of open positions!
+
 We work with some of the most awesome customers in the world who do extraordinary things to solve some of *the* most 
 complex problems in science, engineering and medicine.
 
